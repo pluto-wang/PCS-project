@@ -1,4 +1,4 @@
-# Personal Communication Service project -- <br /> Surprise for Friend 
+# Personal Communication Service project  <br /> Surprise for Friend 
 
 ## Motivation
 
